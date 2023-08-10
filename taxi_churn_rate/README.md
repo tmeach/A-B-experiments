@@ -19,11 +19,11 @@
 ---
 
 
-There is data available from a taxi company that wishes to study driver churn and examine the differences between drivers who leave the service and those who stay. The goal is to formulate and test hypotheses, identify driver groups most susceptible to churn, and draw conclusions about potential service improvements based on the results, aiming to make future changes.
+There is data available from a taxi company that wishes to study driver churn and examine the differences between drivers who leave the service and those who stay. The goal is to formulate and test hypotheses, identify driver groups most susceptible to churn, and draw conclusions about potential service improvements based on the results, aiming to make future changes. The company seeks to analyze this data to understand driver churn, identify relevant driver segments, and make data-driven improvements to the service to minimize churn in the future.
 
 Data Description:
 
-*city – the city where the driver is based
+* city – the city where the driver is based
 * phone – primary device used by the driver
 * signup_date – date of account registration (YYYYMMDD)
 * last_trip_date – date of the last trip (YYYYMMDD)
@@ -35,4 +35,3 @@ Data Description:
 * trips_in_first_30_days – the number of trips taken by the driver in the first 30 days after registration
 * luxury_car_user – TRUE if the user took a luxury car in the first 30 days
 * weekday_pct – the percentage of the user's trips occurring on weekdays
-* The company seeks to analyze this data to understand driver churn, identify relevant driver segments, and make data-driven improvements to the service to minimize churn in the future.
