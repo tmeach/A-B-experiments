@@ -26,7 +26,7 @@ An A/B test was conducted on two equal groups of couriers. Some couriers use the
 
 Data Description:
 
-order_id - order ID
-delivery_time - delivery time in minutes
-district - delivery district
-experiment_group - experimental group
+* order_id - order ID
+* delivery_time - delivery time in minutes
+* district - delivery district
+* experiment_group - experimental group
