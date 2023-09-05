@@ -84,8 +84,6 @@ R-squared" (R-квадрат) - это коэффициент детермина
 
 --- 
 
-##Overview
-
 ML project to analyze the predicted cost of cars and factors influencing pricing using a linear regression model.
 
 ### Data description:
